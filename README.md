@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou João Pedro Serpa
 
 🎓 Estudante de Ciência da Computação — UNIESP (dez/2027)  
-🛡️ Interesses: **Redes de Computadores, Segurança da Informação e Blue Team (Fortinet)**  
+🛡️ Interesses: **Redes de Computadores, Segurança da Informação e Blue Team**  
 💻 Estudo e prática em backend e fundamentos de front-end por meio de projetos acadêmicos
 
 ---

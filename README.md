@@ -1,66 +1,77 @@
 # 👋 Olá, eu sou João Pedro Serpa
 
-🎓 Ciência da Computação — UNIESP (dez/2027)
-🛡️ Interesse em segurança da informação, com foco em **Blue Team**  
-💻 Desenvolvimento backend e fundamentos de front-end aplicados em projetos acadêmicos
-
-Atualmente estudo **redes de computadores e segurança da informação**, buscando fortalecer a base técnica para atuação defensiva.
+🎓 Estudante de Ciência da Computação — UNIESP (dez/2027)  
+🛡️ Interesses: **Redes de Computadores, Segurança da Informação e Blue Team (Fortinet)**  
+💻 Estudo e prática em backend e fundamentos de front-end por meio de projetos acadêmicos
 
 ---
 
-## 🧠 Tecnologias e Conhecimentos
+### 🧑‍💻 Sobre mim
 
-### Linguagens de Programação
+Sou curioso por tecnologia e desenvolvo projetos para **aplicar o que aprendo**.  
+Atualmente foco meus estudos em redes e segurança defensiva, fortalecendo conhecimento para atuar em **áreas de defesa cibernética (Blue Team)**.
+
+---
+
+### ⚙️ Tech Stack
+
+#### 🧠 Linguagens
 - Python
 - C
 - Java
 
-### Backend e Segurança
+#### 🛠️ Backend / APIs
 - Spring Framework
 - Spring Security
-- Autenticação e autorização
-- Tokens JWT
+- Autenticação e autorização (JWT)
 
-### Front-end
+#### 🌐 Front-end
 - HTML
 - CSS
 - JavaScript
-- React
-- Vite
+- React (com Vite)
 - Vitest
 
-### Banco de Dados
+#### 🗄️ Banco de Dados
 - SQL
-- MySQL
-- PostgreSQL
+- MySQL (uso acadêmico)
+- PostgreSQL (contato inicial)
 
-### Redes e Segurança da Informação
+#### 🛡️ Redes e Segurança
 - Fundamentos de redes
 - Conceitos de segurança defensiva (Blue Team)
 - Estudo contínuo de segurança de redes e infraestrutura
 
-### Ferramentas
-- Swagger / OpenAPI
+#### 🧰 Ferramentas
+- Swagger / OpenAPI (documentação de APIs)
 - Git
 - GitHub
 
 ---
 
-## 🚀 Projetos em destaque
-- 📋 **Cadastro de Usuários Front-End**  
-  Sistema de cadastro com validação de dados, uso de Regex, localStorage e manipulação do DOM.  
-  👉 https://github.com/Only/cadastro-usuarios-frontend
+### 🚀 Projetos
+
+📋 **Cadastro de Usuários Front-End**  
+Validação de formulários com Regex, uso de localStorage e manipulação DOM.  
+👉 https://github.com/Only/cadastro-usuarios-frontend
+
+*(adicione aqui outros projetos quando estiverem prontos)*
 
 ---
 
-## 🎯 Objetivos
-- Consolidar os fundamentos de **redes de computadores**
-- Aprofundar conhecimentos em **segurança da informação**
-- Expandir estudos em **Blue Team / Defesa Cibernética**
+### 🎯 Objetivos
+
+- Consolidar fundamentos de **redes e segurança**
+- Aprofundar estudos em **Blue Team / defesa cibernética**
 - Desenvolver competências em **segurança de redes**, com foco em **Fortinet**
 
 ---
 
-## 📫 Contato
-- GitHub: https://github.com/Only
-- LinkedIn: https://www.linkedin.com/in/jpssb/
+### 📫 Contato
+
+🔗 GitHub: https://github.com/jpssb04  
+🔗 LinkedIn: https://www.linkedin.com/in/jpssb/
+
+---
+
+> Keep learning. 🚀

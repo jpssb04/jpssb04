@@ -46,7 +46,7 @@ Atualmente foco meus estudos em **redes e segurança defensiva**, fortalecendo a
 
 📋 **Cadastro de Usuários Front-End**  
 Validação de formulários com Regex, uso de localStorage e manipulação do DOM.  
-👉 https://github.com/Only/cadastro-usuarios-frontend
+👉 https://github.com/jpssb04/cadastro-usuarios
 
 ---
 

@@ -49,6 +49,7 @@ Atualmente foco meus estudos em **redes e segurança defensiva**, fortalecendo a
 📋 **Sistema Financeiro Spring**  
 API REST stateless em Java com Spring Boot, Spring Security (JWT e HMAC256), Swagger, MySQL, Flyway e validação de dados com Bean Validation.  
 👉 https://github.com/jpssb04/sistema-financeiro-spring
+
 📋 **Cadastro de Usuários Front-End**  
 Validação de formulários com Regex, uso de localStorage e manipulação do DOM.  
 👉 https://github.com/jpssb04/cadastro-usuarios

@@ -54,7 +54,6 @@ API REST stateless em Java com Spring Boot, Spring Security (JWT e HMAC256), Swa
 Validação de formulários com Regex, uso de localStorage e manipulação do DOM.  
 👉 https://github.com/jpssb04/cadastro-usuarios
 
-
 📋 Conversor Excel → TXT (ADABAS)
 Aplicação desktop em Python com interface gráfica (Tkinter) para conversão de planilhas Excel (.xls/.xlsx) em arquivos TXT com layout específico para importação em banco de dados ADABAS.
 👉 https://github.com/jpssb04/conversor-excel-adabas

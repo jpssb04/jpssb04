@@ -6,14 +6,12 @@
 
 ---
 
-### 🧑‍💻 Sobre mim
+## 🧑‍💻 Sobre mim
 
 Sou uma pessoa curiosa, com grande interesse em redes de computadores e segurança da informação.
 Atualmente foco meus estudos em **redes e segurança defensiva**, fortalecendo a base técnica para atuar em **Blue Team / Defesa Cibernética**.
 
----
-
-### ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 #### Linguagens
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -44,7 +42,7 @@ Atualmente foco meus estudos em **redes e segurança defensiva**, fortalecendo a
 
 ---
 
-### 🚀 Projetos
+## 🚀 Projetos
 
 📋 **Sistema Financeiro Spring**  
 API REST stateless em Java com Spring Boot, Spring Security (JWT e HMAC256), Swagger, MySQL, Flyway e validação de dados com Bean Validation.  
@@ -56,23 +54,16 @@ Validação de formulários com Regex, uso de localStorage e manipulação do DO
 
 📋 Conversor Excel → TXT (ADABAS)
 Aplicação desktop em Python com interface gráfica (Tkinter) para conversão de planilhas Excel (.xls/.xlsx) em arquivos TXT com layout específico para importação em banco de dados ADABAS.
-
 👉 https://github.com/jpssb04/conversor-excel-adabas
 
----
-
-### 🎯 Objetivos
+## 🎯 Objetivos
 
 - Consolidar fundamentos de **redes e segurança**
 - Aprofundar estudos em **Blue Team / defesa cibernética**
 - Desenvolver competências em **segurança de redes**, com foco em **Fortinet**
 
----
-
-### 📫 Contato
+## 📫 Contato
 
 🔗 GitHub: https://github.com/jpssb04  
 🔗 LinkedIn: https://www.linkedin.com/in/jpssb/
 🔗 TryHackMe: https://tryhackme.com/p/jpssb
-
----

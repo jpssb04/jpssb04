@@ -54,6 +54,7 @@ Validação de formulários com Regex, uso de localStorage e manipulação do DO
 
 📋 Conversor Excel → TXT (ADABAS)
 Aplicação desktop em Python com interface gráfica (Tkinter) para conversão de planilhas Excel (.xls/.xlsx) em arquivos TXT com layout específico para importação em banco de dados ADABAS.
+
 👉 https://github.com/jpssb04/conversor-excel-adabas
 
 ## 🎯 Objetivos
@@ -66,4 +67,5 @@ Aplicação desktop em Python com interface gráfica (Tkinter) para conversão d
 
 🔗 GitHub: https://github.com/jpssb04  
 🔗 LinkedIn: https://www.linkedin.com/in/jpssb/
+
 🔗 TryHackMe: https://tryhackme.com/p/jpssb

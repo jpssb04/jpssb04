@@ -4,8 +4,6 @@
 🛡️ Interesses: **Redes de Computadores, Segurança da Informação e Blue Team**  
 💻 Estudo e prática em backend e fundamentos de front-end por meio de projetos acadêmicos
 
----
-
 ## 🧑‍💻 Sobre mim
 
 Sou uma pessoa curiosa, com grande interesse em redes de computadores e segurança da informação.
@@ -39,8 +37,6 @@ Atualmente foco meus estudos em **redes e segurança defensiva**, fortalecendo a
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
----
 
 ## 🚀 Projetos
 

@@ -44,13 +44,17 @@ Atualmente foco meus estudos em **redes e segurança defensiva**, fortalecendo a
 API REST stateless em Java com Spring Boot, Spring Security (JWT e HMAC256), Swagger, MySQL, Flyway e validação de dados com Bean Validation.  
 👉 https://github.com/jpssb04/sistema-financeiro-spring
 
-📋 **Portal de Notícias React**  
-Front-end desenvolvido em React + Vite com CSS personalizado. Funcionalidades incluem exibição de notícias, busca, curtidas, comentários e login. Armazenamento local usando LocalStorage e testes automatizados com Vitest UI.  
-👉 https://github.com/jpssb04/portal-noticias-react
+📋 Chatbot de Reservas de Restaurante  
+Back-end em Python com Flask, integração com OpenAI para respostas inteligentes e Twilio para envio de mensagens via WhatsApp. Mantém histórico de conversas em memória e consulta dados das mesas de arquivo local.  
+👉 https://github.com/jpssb04/chatbot-restaurante
 
 📋 **Conversor Excel → TXT (ADABAS)**  
 Aplicação desktop em Python com interface gráfica (Tkinter) para conversão de planilhas Excel (.xls/.xlsx) em arquivos TXT com layout específico para importação em banco de dados ADABAS.  
 👉 https://github.com/jpssb04/conversor-excel-adabas
+
+📋 **Portal de Notícias React**  
+Front-end desenvolvido em React + Vite com CSS personalizado. Funcionalidades incluem exibição de notícias, busca, curtidas, comentários e login. Armazenamento local usando LocalStorage e testes automatizados com Vitest UI.  
+👉 https://github.com/jpssb04/portal-noticias-react
 
 ## 🎯 Objetivos
 

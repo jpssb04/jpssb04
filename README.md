@@ -45,7 +45,7 @@ API REST stateless em Java com Spring Boot, Spring Security (JWT e HMAC256), Swa
 👉 https://github.com/jpssb04/sistema-financeiro-spring
 
 📋 **Portal de Notícias React**
-Front-end desenvolvido em React + Vite com CSS personalizado. Funcionalidades incluem exibição de notícias, busca, curtidas, comentários e login. Armazenamento local usando LocalStorage e testes automatizados com Vitest UI.
+Front-end desenvolvido em React + Vite com CSS personalizado. Funcionalidades incluem exibição de notícias, busca, curtidas, comentários e login. Armazenamento local usando LocalStorage e testes automatizados com Vitest UI.  
 👉 https://github.com/jpssb04/portal-noticias-react
 
 📋 **Conversor Excel → TXT (ADABAS)**

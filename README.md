@@ -7,7 +7,7 @@
 ## 🧑‍💻 Sobre mim
 
 Sou uma pessoa curiosa, com grande interesse em redes de computadores e segurança da informação.
-Atualmente foco meus estudos em **redes e segurança defensiva**, fortalecendo a base técnica para atuar em **Blue Team / Defesa Cibernética**.
+Atualmente foco meus estudos em **redes e segurança**, buscando estágios na área.
 
 ## ⚙️ Tech Stack
 

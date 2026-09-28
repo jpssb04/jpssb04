@@ -46,6 +46,7 @@ API REST stateless em Java com Spring Boot, Spring Security (JWT e HMAC256), Swa
 📋 **Projeto de Rede Estruturada — TechSolutions**
 Arquitetura de rede corporativa com VLSM, VLANs, roteamento inter-VLAN, ACLs, DMZ, firewall e redundância de acesso à Internet.
 Dimensionamento de cabeamento estruturado, switches, APs, rack, UPS e demais equipamentos de infraestrutura, com documentação técnica das decisões de projeto.
+
 👉 https://github.com/jpssb04/rede-estruturada-techsolutions
 
 📋 **Chatbot de Reservas de Restaurante**

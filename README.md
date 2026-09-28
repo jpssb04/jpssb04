@@ -43,7 +43,12 @@ Atualmente foco meus estudos em **redes e segurança**, buscando estágios na á
 API REST stateless em Java com Spring Boot, Spring Security (JWT e HMAC256), Swagger, MySQL, Flyway e validação de dados com Bean Validation.  
 👉 https://github.com/jpssb04/sistema-financeiro-spring
 
-📋 Chatbot de Reservas de Restaurante  
+📋 **Projeto de Rede Estruturada — TechSolutions**
+Arquitetura de rede corporativa com VLSM, VLANs, roteamento inter-VLAN, ACLs, DMZ, firewall e redundância de acesso à Internet.
+Dimensionamento de cabeamento estruturado, switches, APs, rack, UPS e demais equipamentos de infraestrutura, com documentação técnica das decisões de projeto.
+👉 https://github.com/jpssb04/rede-estruturada-techsolutions
+
+📋 **Chatbot de Reservas de Restaurante**
 Back-end em Python com Flask, integração com OpenAI para respostas inteligentes e Twilio para envio de mensagens via WhatsApp. Mantém histórico de conversas em memória e consulta dados das mesas de arquivo local.  
 👉 https://github.com/jpssb04/chatbot-restaurante
 
@@ -58,7 +63,6 @@ Front-end desenvolvido em React + Vite com CSS personalizado. Funcionalidades in
 ## 🎯 Objetivos
 
 - Consolidar fundamentos de **redes e segurança**
-- Aprofundar estudos em **Blue Team / defesa cibernética**
 - Desenvolver competências em **segurança de redes**, com foco em **Fortinet**
 
 ## 📫 Contato
